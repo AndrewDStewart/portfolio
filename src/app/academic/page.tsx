@@ -14,7 +14,7 @@ export default function Academic() {
               <p className="mt-1">GPA: 3.6/4.0</p>
             </div>
             <div className="border-l-4 border-[#F38C79] pl-4">
-              <h3 className="font-medium">Dean's List</h3>
+              <h3 className="font-medium">Dean&#39;s List</h3>
               <p className="text-gray-600">Fall 2022 - Spring 2025</p>
             </div>
           </div>

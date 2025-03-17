@@ -54,7 +54,7 @@ export default function Professional() {
               <h3 className="font-medium">Recommendation from [Name]</h3>
               <p className="text-gray-600 text-sm">[Position], [Company]</p>
               <p className="mt-2 italic">
-                "Brief excerpt from the recommendation letter highlighting your skills and qualities..."
+              &#39;Brief excerpt from the recommendation letter highlighting your skills and qualities...&#39;
               </p>
               <button className="mt-3 px-3 py-1 text-sm rounded bg-[#F38C79] text-white hover:bg-[#F38C79]/90 transition-colors">
                 View Full Letter
@@ -64,7 +64,7 @@ export default function Professional() {
               <h3 className="font-medium">Recommendation from [Name]</h3>
               <p className="text-gray-600 text-sm">[Position], [Company]</p>
               <p className="mt-2 italic">
-                "Brief excerpt from the recommendation letter highlighting your skills and qualities..."
+              &#39;Brief excerpt from the recommendation letter highlighting your skills and qualities...&#39;
               </p>
               <button className="mt-3 px-3 py-1 text-sm rounded bg-[#F38C79] text-white hover:bg-[#F38C79]/90 transition-colors">
                 View Full Letter
@@ -97,13 +97,13 @@ export default function Professional() {
           <div className="space-y-8">
             <div className="bg-gray rounded-lg shadow-md p-6 border border-gray-100">
               <h3 className="text-xl font-semibold mb-4 text-[#007074]">Project Summary</h3>
-              <p>The project titled "Daycare Toddlers Attendance System" is a proposed solution 
+              <p>The project titled &#39;Daycare Toddlers Attendance System&#39; is a proposed solution 
                 aimed at improving attendance management and communication in daycare centers. 
-                Developed by the team "Daycare Buddy," this system aims to 
+                Developed by the team &#39;Daycare Buddy,&#39; this system aims to 
                 automate attendance tracking, replacing manual processes prone to errors and 
                 inefficiency. Each child is tagged with an encrypted JWT key, enabling their attendance to be 
                 logged with timestamps when submitted, while real-time SMS notifications are sent to 
-                parents upon their child's entry or exit. This enhances security, communication, 
+                parents upon their child&#39;s entry or exit. This enhances security, communication, 
                 and accountability, addressing current challenges like inadequate tracking measures
                  and communication delays. The desired outcomes include operational efficiency, 
                  improved parental satisfaction, increased safety, and differentiation in the daycare
@@ -144,8 +144,8 @@ export default function Professional() {
   
             <div className="bg-gray rounded-lg shadow-md p-6 border border-gray-100">
               <h3 className="text-xl font-semibold mb-4 text-[#007074]">Project Vision</h3>
-              <p>The "Daycare Attendance System with SMS Technology" project focuses on automating 
-                attendance management for daycare centers. It records children's attendance and sends
+              <p>The &#39;Daycare Attendance System with SMS Technology&#39; project focuses on automating 
+                attendance management for daycare centers. It records children&#39;s attendance and sends
                  real-time SMS notifications to parents, enhancing communication and ensuring peace 
                  of mind. By streamlining operations and eliminating manual tracking methods, the 
                  system reduces administrative workload, improves security, and fosters trust between 

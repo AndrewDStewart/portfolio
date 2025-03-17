@@ -59,14 +59,14 @@ export default function Home() {
         </h2>
         <div className="bg-black rounded-lg shadow-md p-6 border border-gray-100">
           <blockquote className="italic border-l-4 border-[#F38C79] pl-4 mb-4">
-          "The object in life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane." 
+          &#39;The object in life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane.&#39;
           - Marcus Aurelius
           </blockquote>
           <p className="mb-4">
             I think that success is marked by the insurmountable. To hit the mark is to never have needed it, and to aim beyond ones reach is to 
             seek a suitable goal. I look to make a genuine difference in the world one day. 
           </p>
-          <p>I have succeeded in an industry, faced pandemic, and forced myself to adapt and grow in it's wake.</p>
+          <p>I have succeeded in an industry, faced pandemic, and forced myself to adapt and grow in it&#39;s wake.</p>
         </div>
       </section>
 
